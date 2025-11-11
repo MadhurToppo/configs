@@ -1,1 +1,1 @@
-# Application Configuration Files
+# Application Configurations
