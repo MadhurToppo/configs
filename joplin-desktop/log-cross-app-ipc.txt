@@ -1,0 +1,2 @@
+2025-05-31 08:22:40: Starting server using secret key: /Users/madhurtoppo/.config/joplin-desktop/ipc_secret_key.txt
+2025-05-31 08:25:12: Starting server using secret key: /Users/madhurtoppo/.config/joplin-desktop/ipc_secret_key.txt

@@ -1,0 +1,16 @@
+theme = DoomOne
+font-family = JetBrainsMono Nerd Font Mono
+font-size = 14
+minimum-contrast = 1
+window-decoration = true
+window-subtitle = working-directory
+quit-after-last-window-closed = true
+macos-titlebar-proxy-icon = visible
+alpha-blending = linear-corrected
+mouse-hide-while-typing = true
+window-save-state = always
+shell-integration = zsh
+window-height = 40
+window-width = 180
+window-position-x = 120
+window-position-y = 200

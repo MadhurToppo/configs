@@ -1,0 +1,656 @@
+2025-05-31 08:22:41: App: Profile directory: /Users/madhurtoppo/.config/joplin-desktop
+2025-05-31 08:22:41: App: Root profile directory: /Users/madhurtoppo/.config/joplin-desktop
+2025-05-31 08:22:41: Database was open successfully
+2025-05-31 08:22:41: Checking for database schema update...
+2025-05-31 08:22:41: Current database version <null>
+2025-05-31 08:22:41: Upgrading database from version 0
+2025-05-31 08:22:41: Converting database to version 1
+2025-05-31 08:22:41: Converting database to version 2
+2025-05-31 08:22:41: Converting database to version 3
+2025-05-31 08:22:41: Converting database to version 4
+2025-05-31 08:22:41: Converting database to version 5
+2025-05-31 08:22:41: Converting database to version 6
+2025-05-31 08:22:41: Converting database to version 7
+2025-05-31 08:22:41: Converting database to version 8
+2025-05-31 08:22:41: Converting database to version 9
+2025-05-31 08:22:41: Converting database to version 10
+2025-05-31 08:22:41: Converting database to version 11
+2025-05-31 08:22:41: Converting database to version 12
+2025-05-31 08:22:41: Converting database to version 13
+2025-05-31 08:22:41: Converting database to version 14
+2025-05-31 08:22:41: Converting database to version 15
+2025-05-31 08:22:41: Converting database to version 16
+2025-05-31 08:22:41: Converting database to version 17
+2025-05-31 08:22:41: Converting database to version 18
+2025-05-31 08:22:41: Converting database to version 19
+2025-05-31 08:22:41: Converting database to version 20
+2025-05-31 08:22:41: Converting database to version 21
+2025-05-31 08:22:41: Converting database to version 22
+2025-05-31 08:22:41: Converting database to version 23
+2025-05-31 08:22:41: Converting database to version 24
+2025-05-31 08:22:41: Converting database to version 25
+2025-05-31 08:22:41: Converting database to version 26
+2025-05-31 08:22:41: Converting database to version 27
+2025-05-31 08:22:41: Converting database to version 28
+2025-05-31 08:22:41: Converting database to version 29
+2025-05-31 08:22:41: Converting database to version 30
+2025-05-31 08:22:41: Converting database to version 31
+2025-05-31 08:22:41: Converting database to version 32
+2025-05-31 08:22:41: Converting database to version 33
+2025-05-31 08:22:41: Converting database to version 34
+2025-05-31 08:22:41: Migration failed with fallback and will not be repeated - saving version number
+2025-05-31 08:22:41: Converting database to version 35
+2025-05-31 08:22:41: Converting database to version 36
+2025-05-31 08:22:41: Converting database to version 37
+2025-05-31 08:22:41: Converting database to version 38
+2025-05-31 08:22:41: Converting database to version 39
+2025-05-31 08:22:41: Converting database to version 40
+2025-05-31 08:22:41: Converting database to version 41
+2025-05-31 08:22:41: Converting database to version 42
+2025-05-31 08:22:41: Converting database to version 43
+2025-05-31 08:22:41: Converting database to version 44
+2025-05-31 08:22:41: Converting database to version 45
+2025-05-31 08:22:41: Converting database to version 46
+2025-05-31 08:22:41: Converting database to version 47
+2025-05-31 08:22:41: New version: 47. Previously recorded version: 0
+2025-05-31 08:22:41: Initializing tables...
+2025-05-31 08:22:41: KeychainService: checking if keychain supported
+2025-05-31 08:22:41: KeychainService: tried to set and get password. Result was: mytest
+2025-05-31 08:22:41: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2025-05-31 08:22:41: handleSyncStartupOperation: Processing operation: 0
+2025-05-31 08:22:41: App: Client ID: e0af4fa473a64ea5af8653d309e2e31a
+2025-05-31 08:22:41: First start: detected locale as en_GB
+2025-05-31 08:22:41: models/Setting: Skipping all default migrations...
+2025-05-31 08:22:41: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:22:41: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:22:41: ResourceFetcher: Auto-add resources: Mode: always
+2025-05-31 08:22:41: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2025-05-31 08:22:41: ResourceFetcher: Auto-added resources: 0
+2025-05-31 08:22:41: permanentlyDeleteOldData: Items to permanently delete: {"folderIds":[],"noteIds":[]}
+2025-05-31 08:22:41: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2025-05-31 08:22:41: Running migration: 20
+2025-05-31 08:22:41: DeleteAction: MigrationService: ; Item IDs: 1
+2025-05-31 08:22:41: Running migration: 27
+2025-05-31 08:22:41: DeleteAction: MigrationService: ; Item IDs: 2
+2025-05-31 08:22:41: Running migration: 33
+2025-05-31 08:22:41: SearchEngine: Updating FTS table...
+2025-05-31 08:22:41: Updating items_normalized from {"updated_time":0,"id":""}
+2025-05-31 08:22:41: SearchEngine: Updated FTS table in 0ms. Inserted: 0. Deleted: 0
+2025-05-31 08:22:41: DeleteAction: MigrationService: ; Item IDs: 3
+2025-05-31 08:22:41: Running migration: 35
+2025-05-31 08:22:41: SearchEngine: Updating FTS table...
+2025-05-31 08:22:42: Updating items_normalized from {"updated_time":0,"id":""}
+2025-05-31 08:22:42: SearchEngine: Updated FTS table in 1ms. Inserted: 0. Deleted: 0
+2025-05-31 08:22:42: DeleteAction: MigrationService: ; Item IDs: 4
+2025-05-31 08:22:42: Running migration: 42
+2025-05-31 08:22:42: DeleteAction: MigrationService: ; Item IDs: 5
+2025-05-31 08:22:42: App: "syncInfoCache" was changed - setting up encryption related code
+2025-05-31 08:22:42: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:22:42: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:22:42: App: "syncInfoCache" was changed - setting up encryption related code
+2025-05-31 08:22:42: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:22:42: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:22:42: App: "syncInfoCache" was changed - setting up encryption related code
+2025-05-31 08:22:42: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:22:42: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:22:42: app.start: doing regular boot
+2025-05-31 08:22:42: OcrService: Starting background service...
+2025-05-31 08:22:42: App: "syncInfoCache" was changed - setting up encryption related code
+2025-05-31 08:22:42: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:22:42: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:22:42: App: "syncInfoCache" was changed - setting up encryption related code
+2025-05-31 08:22:42: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:22:42: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:22:42: App: "syncInfoCache" was changed - setting up encryption related code
+2025-05-31 08:22:42: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:22:42: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:22:42: OcrService: Found 0 resources to process...
+2025-05-31 08:22:42: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2025-05-31 08:22:42: PluginService: Loading plugin from /Users/madhurtoppo/.config/joplin-desktop/cache/io.github.jackgruber.backup
+2025-05-31 08:22:42: PluginService: Loading plugin from /Users/madhurtoppo/.config/joplin-desktop/cache/io.github.personalizedrefrigerator.js-draw
+2025-05-31 08:22:42: SpellCheckerServiceDriverNative: Set effective languages to "en-GB"
+2025-05-31 08:22:42: SpellCheckerServiceDriverNative: Set effective languages to "en-GB"
+2025-05-31 08:22:42: OcrService: 0 resources have been processed.
+2025-05-31 08:22:42: joplin.plugins: Starting plugin: io.github.jackgruber.backup
+2025-05-31 08:22:42: joplin.plugins: Starting plugin: io.github.personalizedrefrigerator.js-draw
+2025-05-31 08:22:42: OcrService: Found 1 resources to process...
+2025-05-31 08:22:42: joplin.plugins: Finished running onStart handler: io.github.personalizedrefrigerator.js-draw (Took 49ms)
+2025-05-31 08:22:42: useFormNote: Sync has finished and note has never been changed - reloading it
+2025-05-31 08:22:42: useFormNote: [warn] Trying to reload note that has been deleted: <null>
+2025-05-31 08:22:42: OcrService: Processing resource 1 / 1: 44be7ad90a214916b03d312ff2b90d5c (type image/png)...
+2025-05-31 08:22:42: joplin.plugins: Finished running onStart handler: io.github.jackgruber.backup (Took 198ms)
+2025-05-31 08:22:42: useFormNote: Sync has finished and note has never been changed - reloading it
+2025-05-31 08:22:42: OcrService: Processing resource 2 / 1: 66ddfb8873894b1087483dec27e3c03f (type image/png)...
+2025-05-31 08:22:42: OcrService: Processing resource 3 / 1: 6f8a63bbcc704c6ba3bb2a4fb8d60997 (type image/png)...
+2025-05-31 08:22:43: DecryptionWorker: cannot start because no master key is currently loaded.
+2025-05-31 08:22:43: EditorPluginHandler: emitUpdate: []
+2025-05-31 08:22:43: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[]}
+2025-05-31 08:22:43: OcrDriverTesseract: Created worker: 1
+2025-05-31 08:22:43: OcrDriverTesseract: Created worker: 2
+2025-05-31 08:22:43: OcrDriverTesseract: Created worker: 3
+2025-05-31 08:22:43: ResourceService::indexNoteResources: Start
+2025-05-31 08:22:43: OcrService: 3 resources have been processed.
+2025-05-31 08:22:43: ResourceService::indexNoteResources: Completed
+2025-05-31 08:22:46: RevisionService: maintenance: Starting...
+2025-05-31 08:22:46: RevisionService: maintenance: Service is enabled
+2025-05-31 08:22:46: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 08:22:46: RevisionService: maintenance: Done in 131ms
+2025-05-31 08:22:47: checkForUpdates: Starting...
+2025-05-31 08:22:47: checkForUpdates: Checking with options {"includePreReleases":false}
+2025-05-31 08:22:47: checkForUpdates: Current version: 3.3.12
+2025-05-31 08:22:47: checkForUpdates: Latest version: 3.3.12
+2025-05-31 08:22:47: checkForUpdates: Is Pre-release: <false>
+2025-05-31 08:22:47: checkForUpdates: Done.
+2025-05-31 08:22:51: checkForUpdates: Starting...
+2025-05-31 08:22:51: checkForUpdates: Checking with options {"includePreReleases":false}
+2025-05-31 08:22:51: SearchEngine: Updating FTS table...
+2025-05-31 08:22:51: checkForUpdates: Current version: 3.3.12
+2025-05-31 08:22:51: checkForUpdates: Latest version: 3.3.12
+2025-05-31 08:22:51: checkForUpdates: Is Pre-release: <false>
+2025-05-31 08:22:54: checkForUpdates: Done.
+2025-05-31 08:22:54: Updating items_normalized from {"updated_time":0,"id":""}
+2025-05-31 08:22:54: SearchEngine: Updated FTS table in 2269ms. Inserted: 8. Deleted: 0
+2025-05-31 08:22:56: EditorPluginHandler: emitUpdate: []
+2025-05-31 08:22:56: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[]}
+2025-05-31 08:22:57: Preparing scheduled sync
+2025-05-31 08:22:57: Sync cancelled - no sync target is selected.
+2025-05-31 08:23:12: ResourceService::indexNoteResources: Start
+2025-05-31 08:23:12: ResourceService::indexNoteResources: Completed
+2025-05-31 08:23:12: ResourceService::deleteOrphanResources: []
+2025-05-31 08:23:14: EditorPluginHandler: emitUpdate: []
+2025-05-31 08:23:14: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[]}
+2025-05-31 08:23:20: RepositoryApi: findWorkingMirror: Using: https://raw.githubusercontent.com/joplin/plugins/master
+2025-05-31 08:23:22: SearchEngine: Updating FTS table...
+2025-05-31 08:23:22: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:23:22: SearchEngine: Updated FTS table in 3ms. Inserted: 0. Deleted: 0
+2025-05-31 08:23:22: RepositoryApi: findWorkingMirror: Using: https://raw.githubusercontent.com/joplin/plugins/master
+2025-05-31 08:24:12: RepositoryApi: findWorkingMirror: Using: https://raw.githubusercontent.com/joplin/plugins/master
+2025-05-31 08:24:13: RepositoryApi: findWorkingMirror: Using: https://raw.githubusercontent.com/joplin/plugins/master
+2025-05-31 08:24:14: RepositoryApi: findWorkingMirror: Using: https://raw.githubusercontent.com/joplin/plugins/master
+2025-05-31 08:24:25: RepositoryApi: findWorkingMirror: Using: https://raw.githubusercontent.com/joplin/plugins/master
+2025-05-31 08:25:00: RepositoryApi: findWorkingMirror: Using: https://raw.githubusercontent.com/joplin/plugins/master
+2025-05-31 08:25:13: App: Profile directory: /Users/madhurtoppo/.config/joplin-desktop
+2025-05-31 08:25:13: App: Root profile directory: /Users/madhurtoppo/.config/joplin-desktop
+2025-05-31 08:25:13: Database was open successfully
+2025-05-31 08:25:13: Checking for database schema update...
+2025-05-31 08:25:13: Current database version {"version":47,"table_fields_version":47}
+2025-05-31 08:25:13: Upgrading database from version 47
+2025-05-31 08:25:13: New version: 47. Previously recorded version: 47
+2025-05-31 08:25:13: KeychainService: checking if keychain supported
+2025-05-31 08:25:13: KeychainService: check was already done - skipping. Supported: 1
+2025-05-31 08:25:13: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2025-05-31 08:25:13: handleSyncStartupOperation: Processing operation: 0
+2025-05-31 08:25:13: App: Client ID: e0af4fa473a64ea5af8653d309e2e31a
+2025-05-31 08:25:13: models/Setting: Applying default migrations...
+2025-05-31 08:25:13: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:25:13: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:25:13: ResourceFetcher: Auto-add resources: Mode: always
+2025-05-31 08:25:13: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2025-05-31 08:25:13: ResourceFetcher: Auto-added resources: 0
+2025-05-31 08:25:13: permanentlyDeleteOldData: Items to permanently delete: {"folderIds":[],"noteIds":[]}
+2025-05-31 08:25:13: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2025-05-31 08:25:13: App: "syncInfoCache" was changed - setting up encryption related code
+2025-05-31 08:25:13: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:25:13: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:25:13: App: "syncInfoCache" was changed - setting up encryption related code
+2025-05-31 08:25:13: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:25:13: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:25:13: App: "syncInfoCache" was changed - setting up encryption related code
+2025-05-31 08:25:13: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:25:13: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:25:13: app.start: doing regular boot
+2025-05-31 08:25:13: OcrService: Starting background service...
+2025-05-31 08:25:13: App: "syncInfoCache" was changed - setting up encryption related code
+2025-05-31 08:25:13: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:25:13: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:25:13: App: "syncInfoCache" was changed - setting up encryption related code
+2025-05-31 08:25:13: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:25:13: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:25:13: App: "syncInfoCache" was changed - setting up encryption related code
+2025-05-31 08:25:13: e2ee/utils: Trying to load 0 master keys...
+2025-05-31 08:25:13: e2ee/utils: Loaded master keys: 0
+2025-05-31 08:25:13: OcrService: Found 0 resources to process...
+2025-05-31 08:25:13: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2025-05-31 08:25:13: PluginService: Loading plugin from /Users/madhurtoppo/.config/joplin-desktop/cache/io.github.jackgruber.backup
+2025-05-31 08:25:13: PluginService: Loading plugin from /Users/madhurtoppo/.config/joplin-desktop/cache/io.github.personalizedrefrigerator.js-draw
+2025-05-31 08:25:13: SpellCheckerServiceDriverNative: Set effective languages to "en-GB"
+2025-05-31 08:25:13: OcrService: 0 resources have been processed.
+2025-05-31 08:25:13: joplin.plugins: Starting plugin: io.github.jackgruber.backup
+2025-05-31 08:25:13: joplin.plugins: Starting plugin: io.github.personalizedrefrigerator.js-draw
+2025-05-31 08:25:13: joplin.plugins: Finished running onStart handler: io.github.personalizedrefrigerator.js-draw (Took 55ms)
+2025-05-31 08:25:13: useFormNote: Sync has finished and note has never been changed - reloading it
+2025-05-31 08:25:13: useFormNote: [warn] Trying to reload note that has been deleted: <null>
+2025-05-31 08:25:13: joplin.plugins: Finished running onStart handler: io.github.jackgruber.backup (Took 120ms)
+2025-05-31 08:25:13: EditorPluginHandler: emitUpdate: []
+2025-05-31 08:25:13: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[]}
+2025-05-31 08:25:14: DecryptionWorker: cannot start because no master key is currently loaded.
+2025-05-31 08:25:14: Preparing scheduled sync
+2025-05-31 08:25:14: Sync cancelled - no sync target is selected.
+2025-05-31 08:25:14: Updating all notifications...
+2025-05-31 08:25:14: Garbage collecting alarms...
+2025-05-31 08:25:15: DecryptionWorker: cannot start because no master key is currently loaded.
+2025-05-31 08:25:15: EditorPluginHandler: emitUpdate: []
+2025-05-31 08:25:15: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[]}
+2025-05-31 08:25:15: useFormNote: Sync has finished and note has never been changed - reloading it
+2025-05-31 08:25:17: RevisionService: maintenance: Starting...
+2025-05-31 08:25:17: RevisionService: maintenance: Service is enabled
+2025-05-31 08:25:17: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 08:25:17: RevisionService: maintenance: Done in 108ms
+2025-05-31 08:25:17: Fetching geolocation...
+2025-05-31 08:25:17: EditorPluginHandler: emitUpdate: []
+2025-05-31 08:25:17: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[]}
+2025-05-31 08:25:18: Got lat/long
+2025-05-31 08:25:18: Updating lat/long of note 78008632b9c74bbaaf4991bfc7b4ddcd
+2025-05-31 08:25:18: useFormNote: Sync has finished and note has never been changed - reloading it
+2025-05-31 08:25:18: useFormNote: Sync has finished and note has never been changed - reloading it
+2025-05-31 08:25:18: checkForUpdates: Starting...
+2025-05-31 08:25:18: checkForUpdates: Checking with options {"includePreReleases":false}
+2025-05-31 08:25:18: checkForUpdates: Current version: 3.3.12
+2025-05-31 08:25:18: checkForUpdates: Latest version: 3.3.12
+2025-05-31 08:25:18: checkForUpdates: Is Pre-release: <false>
+2025-05-31 08:25:18: checkForUpdates: Done.
+2025-05-31 08:25:23: SearchEngine: Updating FTS table...
+2025-05-31 08:25:23: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:25:23: SearchEngine: Updated FTS table in 23ms. Inserted: 1. Deleted: 0
+2025-05-31 08:25:37: Preparing scheduled sync
+2025-05-31 08:25:37: Sync cancelled - no sync target is selected.
+2025-05-31 08:25:43: ResourceService::indexNoteResources: Start
+2025-05-31 08:25:43: ResourceService::indexNoteResources: Completed
+2025-05-31 08:25:43: ResourceService::deleteOrphanResources: []
+2025-05-31 08:25:52: SearchEngine: Updating FTS table...
+2025-05-31 08:25:52: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:25:52: SearchEngine: Updated FTS table in 31ms. Inserted: 2. Deleted: 0
+2025-05-31 08:26:02: SearchEngine: Updating FTS table...
+2025-05-31 08:26:03: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:26:03: SearchEngine: Updated FTS table in 22ms. Inserted: 1. Deleted: 0
+2025-05-31 08:26:08: Preparing scheduled sync
+2025-05-31 08:26:08: Sync cancelled - no sync target is selected.
+2025-05-31 08:30:13: Running background sync on timer...
+2025-05-31 08:30:13: Preparing scheduled sync
+2025-05-31 08:30:13: Sync cancelled - no sync target is selected.
+2025-05-31 08:30:13: OcrService: Found 0 resources to process...
+2025-05-31 08:30:13: OcrService: 0 resources have been processed.
+2025-05-31 08:31:24: SearchEngine: Updating FTS table...
+2025-05-31 08:31:24: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:31:24: SearchEngine: Updated FTS table in 20ms. Inserted: 1. Deleted: 0
+2025-05-31 08:31:31: Preparing scheduled sync
+2025-05-31 08:31:31: Sync cancelled - no sync target is selected.
+2025-05-31 08:31:46: SearchEngine: Updating FTS table...
+2025-05-31 08:31:46: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:31:46: SearchEngine: Updated FTS table in 23ms. Inserted: 1. Deleted: 0
+2025-05-31 08:32:00: Preparing scheduled sync
+2025-05-31 08:32:00: Sync cancelled - no sync target is selected.
+2025-05-31 08:32:17: SearchEngine: Updating FTS table...
+2025-05-31 08:32:17: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:32:17: SearchEngine: Updated FTS table in 21ms. Inserted: 1. Deleted: 0
+2025-05-31 08:32:23: Preparing scheduled sync
+2025-05-31 08:32:23: Sync cancelled - no sync target is selected.
+2025-05-31 08:34:29: SearchEngine: Updating FTS table...
+2025-05-31 08:34:30: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:34:30: SearchEngine: Updated FTS table in 19ms. Inserted: 1. Deleted: 0
+2025-05-31 08:34:44: Preparing scheduled sync
+2025-05-31 08:34:44: Sync cancelled - no sync target is selected.
+2025-05-31 08:35:13: Running background sync on timer...
+2025-05-31 08:35:13: Preparing scheduled sync
+2025-05-31 08:35:13: Sync cancelled - no sync target is selected.
+2025-05-31 08:35:13: RevisionService: maintenance: Starting...
+2025-05-31 08:35:13: RevisionService: maintenance: Service is enabled
+2025-05-31 08:35:13: RevisionService: collectRevisions: Created revisions for 1 notes
+2025-05-31 08:35:13: RevisionService: maintenance: Done in 124ms
+2025-05-31 08:35:13: OcrService: Found 0 resources to process...
+2025-05-31 08:35:13: OcrService: 0 resources have been processed.
+2025-05-31 08:35:15: SearchEngine: Updating FTS table...
+2025-05-31 08:35:15: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:35:15: SearchEngine: Updated FTS table in 24ms. Inserted: 1. Deleted: 0
+2025-05-31 08:35:30: Preparing scheduled sync
+2025-05-31 08:35:30: Sync cancelled - no sync target is selected.
+2025-05-31 08:40:13: Running background sync on timer...
+2025-05-31 08:40:13: Preparing scheduled sync
+2025-05-31 08:40:13: Sync cancelled - no sync target is selected.
+2025-05-31 08:40:13: OcrService: Found 0 resources to process...
+2025-05-31 08:40:13: OcrService: 0 resources have been processed.
+2025-05-31 08:40:22: SearchEngine: Updating FTS table...
+2025-05-31 08:40:22: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:40:22: SearchEngine: Updated FTS table in 22ms. Inserted: 1. Deleted: 0
+2025-05-31 08:40:35: Preparing scheduled sync
+2025-05-31 08:40:35: Sync cancelled - no sync target is selected.
+2025-05-31 08:45:13: RevisionService: maintenance: Starting...
+2025-05-31 08:45:13: RevisionService: maintenance: Service is enabled
+2025-05-31 08:45:13: Running background sync on timer...
+2025-05-31 08:45:13: Preparing scheduled sync
+2025-05-31 08:45:13: Sync cancelled - no sync target is selected.
+2025-05-31 08:45:13: RevisionService: collectRevisions: Created revisions for 1 notes
+2025-05-31 08:45:13: RevisionService: maintenance: Done in 121ms
+2025-05-31 08:45:13: OcrService: Found 0 resources to process...
+2025-05-31 08:45:13: OcrService: 0 resources have been processed.
+2025-05-31 08:50:13: Running background sync on timer...
+2025-05-31 08:50:13: Preparing scheduled sync
+2025-05-31 08:50:13: Sync cancelled - no sync target is selected.
+2025-05-31 08:50:13: OcrService: Found 0 resources to process...
+2025-05-31 08:50:13: OcrService: 0 resources have been processed.
+2025-05-31 08:50:18: SearchEngine: Updating FTS table...
+2025-05-31 08:50:18: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:50:18: SearchEngine: Updated FTS table in 20ms. Inserted: 1. Deleted: 0
+2025-05-31 08:50:29: SearchEngine: Updating FTS table...
+2025-05-31 08:50:29: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:50:29: SearchEngine: Updated FTS table in 21ms. Inserted: 1. Deleted: 0
+2025-05-31 08:50:37: Preparing scheduled sync
+2025-05-31 08:50:37: Sync cancelled - no sync target is selected.
+2025-05-31 08:55:13: RevisionService: maintenance: Starting...
+2025-05-31 08:55:13: RevisionService: maintenance: Service is enabled
+2025-05-31 08:55:13: Running background sync on timer...
+2025-05-31 08:55:13: Preparing scheduled sync
+2025-05-31 08:55:13: Sync cancelled - no sync target is selected.
+2025-05-31 08:55:13: RevisionService: collectRevisions: Created revisions for 1 notes
+2025-05-31 08:55:13: RevisionService: maintenance: Done in 126ms
+2025-05-31 08:55:13: OcrService: Found 0 resources to process...
+2025-05-31 08:55:13: OcrService: 0 resources have been processed.
+2025-05-31 08:58:40: SearchEngine: Updating FTS table...
+2025-05-31 08:58:40: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:58:40: SearchEngine: Updated FTS table in 22ms. Inserted: 1. Deleted: 0
+2025-05-31 08:58:50: SearchEngine: Updating FTS table...
+2025-05-31 08:58:50: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:58:50: SearchEngine: Updated FTS table in 23ms. Inserted: 1. Deleted: 0
+2025-05-31 08:58:55: Preparing scheduled sync
+2025-05-31 08:58:55: Sync cancelled - no sync target is selected.
+2025-05-31 08:59:22: SearchEngine: Updating FTS table...
+2025-05-31 08:59:22: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 08:59:22: SearchEngine: Updated FTS table in 19ms. Inserted: 1. Deleted: 0
+2025-05-31 08:59:35: Preparing scheduled sync
+2025-05-31 08:59:35: Sync cancelled - no sync target is selected.
+2025-05-31 09:00:13: Running background sync on timer...
+2025-05-31 09:00:13: Preparing scheduled sync
+2025-05-31 09:00:13: Sync cancelled - no sync target is selected.
+2025-05-31 09:00:13: OcrService: Found 0 resources to process...
+2025-05-31 09:00:13: OcrService: 0 resources have been processed.
+2025-05-31 09:02:52: SearchEngine: Updating FTS table...
+2025-05-31 09:02:52: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 09:02:52: SearchEngine: Updated FTS table in 29ms. Inserted: 1. Deleted: 0
+2025-05-31 09:03:06: Preparing scheduled sync
+2025-05-31 09:03:06: Sync cancelled - no sync target is selected.
+2025-05-31 09:04:48: SearchEngine: Updating FTS table...
+2025-05-31 09:04:48: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 09:04:48: SearchEngine: Updated FTS table in 23ms. Inserted: 1. Deleted: 0
+2025-05-31 09:05:03: Preparing scheduled sync
+2025-05-31 09:05:03: Sync cancelled - no sync target is selected.
+2025-05-31 09:05:13: RevisionService: maintenance: Starting...
+2025-05-31 09:05:13: RevisionService: maintenance: Service is enabled
+2025-05-31 09:05:13: Running background sync on timer...
+2025-05-31 09:05:13: Preparing scheduled sync
+2025-05-31 09:05:13: Sync cancelled - no sync target is selected.
+2025-05-31 09:05:13: RevisionService: collectRevisions: Created revisions for 1 notes
+2025-05-31 09:05:13: RevisionService: maintenance: Done in 124ms
+2025-05-31 09:05:13: OcrService: Found 0 resources to process...
+2025-05-31 09:05:13: OcrService: 0 resources have been processed.
+2025-05-31 09:06:13: SearchEngine: Updating FTS table...
+2025-05-31 09:06:13: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 09:06:13: SearchEngine: Updated FTS table in 21ms. Inserted: 1. Deleted: 0
+2025-05-31 09:06:27: Preparing scheduled sync
+2025-05-31 09:06:27: Sync cancelled - no sync target is selected.
+2025-05-31 09:06:47: EditorPluginHandler: emitUpdate: []
+2025-05-31 09:06:47: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[]}
+2025-05-31 09:07:02: EditorPluginHandler: emitUpdate: []
+2025-05-31 09:07:02: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[]}
+2025-05-31 09:07:03: EditorPluginHandler: emitUpdate: []
+2025-05-31 09:07:03: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[]}
+2025-05-31 09:07:16: EditorPluginHandler: emitUpdate: []
+2025-05-31 09:07:16: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[]}
+2025-05-31 09:07:18: EditorPluginHandler: emitUpdate: []
+2025-05-31 09:07:18: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[]}
+2025-05-31 09:07:23: SearchEngine: Updating FTS table...
+2025-05-31 09:07:23: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 09:07:23: SearchEngine: Updated FTS table in 20ms. Inserted: 1. Deleted: 0
+2025-05-31 09:07:29: Preparing scheduled sync
+2025-05-31 09:07:29: Sync cancelled - no sync target is selected.
+2025-05-31 09:07:30: EditorPluginHandler: emitUpdate: []
+2025-05-31 09:07:30: EditorPluginHandler: emitActivationCheck: responses: {"activatedEditors":[]}
+2025-05-31 09:10:13: Running background sync on timer...
+2025-05-31 09:10:13: Preparing scheduled sync
+2025-05-31 09:10:13: Sync cancelled - no sync target is selected.
+2025-05-31 09:10:13: OcrService: Found 0 resources to process...
+2025-05-31 09:10:13: OcrService: 0 resources have been processed.
+2025-05-31 09:12:23: shouldPasteResources: Pasted text: curl "https://api.openaq.org/v3/locations?coordinates=28.6139,77.2090&radius=10000"
+-H "accept: application/json"
+-H "X-API-Key: d6fa38e06e41a815464daf4db7fa64db5e480210a1d4d8c1ddbe863775e2d10c"
+2025-05-31 09:12:23: shouldPasteResources: Pasted HTML: <meta charset='utf-8'><!-- x-tinymce/html -->curl "<a data-from-md="" title="https://api.openaq.org/v3/locations?coordinates=28.6139,77.2090&amp;radius=10000" href="https://api.openaq.org/v3/locations?coordinates=28.6139,77.2090&amp;radius=10000">https://api.openaq.org/v3/locations?coordinates=28.6139,77.2090&amp;radius=10000</a>"<br>-H "accept: application/json"<br>-H "X-API-Key: d6fa38e06e41a815464daf4db7fa64db5e480210a1d4d8c1ddbe863775e2d10c"
+2025-05-31 09:12:23: shouldPasteResources: Resources: []
+2025-05-31 09:12:23: shouldPasteResources: Not pasting resources only because the clipboard contains plain text
+2025-05-31 09:12:23: TinyMCE: onPaste: pasting as HTML
+2025-05-31 09:12:35: SearchEngine: Updating FTS table...
+2025-05-31 09:12:35: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 09:12:35: SearchEngine: Updated FTS table in 22ms. Inserted: 1. Deleted: 0
+2025-05-31 09:12:52: SearchEngine: Updating FTS table...
+2025-05-31 09:12:52: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 09:12:52: SearchEngine: Updated FTS table in 23ms. Inserted: 1. Deleted: 0
+2025-05-31 09:13:01: Preparing scheduled sync
+2025-05-31 09:13:01: Sync cancelled - no sync target is selected.
+2025-05-31 09:15:13: RevisionService: maintenance: Starting...
+2025-05-31 09:15:13: RevisionService: maintenance: Service is enabled
+2025-05-31 09:15:13: Running background sync on timer...
+2025-05-31 09:15:13: Preparing scheduled sync
+2025-05-31 09:15:13: Sync cancelled - no sync target is selected.
+2025-05-31 09:15:13: RevisionService: collectRevisions: Created revisions for 2 notes
+2025-05-31 09:15:13: RevisionService: maintenance: Done in 141ms
+2025-05-31 09:15:13: OcrService: Found 0 resources to process...
+2025-05-31 09:15:13: OcrService: 0 resources have been processed.
+2025-05-31 09:20:13: Running background sync on timer...
+2025-05-31 09:20:13: Preparing scheduled sync
+2025-05-31 09:20:13: Sync cancelled - no sync target is selected.
+2025-05-31 09:20:13: OcrService: Found 0 resources to process...
+2025-05-31 09:20:13: OcrService: 0 resources have been processed.
+2025-05-31 09:23:02: shouldPasteResources: Pasted text: curl "https://api.openaq.org/v3/locations?coordinates=48.782,9.177&radius=10000"
+-H "accept: application/json"
+-H "X-API-Key: d6fa38e06e41a815464daf4db7fa64db5e480210a1d4d8c1ddbe863775e2d10c"
+2025-05-31 09:23:02: shouldPasteResources: Pasted HTML: <meta charset='utf-8'><!-- x-tinymce/html -->curl "<a title="https://api.openaq.org/v3/locations?coordinates=28.6139,77.2090&amp;radius=10000" href="https://api.openaq.org/v3/locations?coordinates=28.6139,77.2090&amp;radius=10000">https://api.openaq.org/v3/locations?coordinates=48.782,9.177&amp;radius=10000</a>"<br>-H "accept: application/json"<br>-H "X-API-Key: d6fa38e06e41a815464daf4db7fa64db5e480210a1d4d8c1ddbe863775e2d10c"
+2025-05-31 09:23:02: shouldPasteResources: Resources: []
+2025-05-31 09:23:02: shouldPasteResources: Not pasting resources only because the clipboard contains plain text
+2025-05-31 09:23:02: TinyMCE: onPaste: pasting as HTML
+2025-05-31 09:23:05: SearchEngine: Updating FTS table...
+2025-05-31 09:23:05: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 09:23:05: SearchEngine: Updated FTS table in 20ms. Inserted: 1. Deleted: 0
+2025-05-31 09:23:18: Preparing scheduled sync
+2025-05-31 09:23:18: Sync cancelled - no sync target is selected.
+2025-05-31 09:23:31: SearchEngine: Updating FTS table...
+2025-05-31 09:23:31: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 09:23:31: SearchEngine: Updated FTS table in 16ms. Inserted: 1. Deleted: 0
+2025-05-31 09:23:44: SearchEngine: Updating FTS table...
+2025-05-31 09:23:44: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 09:23:44: SearchEngine: Updated FTS table in 21ms. Inserted: 1. Deleted: 0
+2025-05-31 09:23:55: SearchEngine: Updating FTS table...
+2025-05-31 09:23:56: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 09:23:56: SearchEngine: Updated FTS table in 18ms. Inserted: 1. Deleted: 0
+2025-05-31 09:24:00: Preparing scheduled sync
+2025-05-31 09:24:00: Sync cancelled - no sync target is selected.
+2025-05-31 09:25:13: Garbage collecting alarms...
+2025-05-31 09:25:13: RevisionService: maintenance: Starting...
+2025-05-31 09:25:13: RevisionService: maintenance: Service is enabled
+2025-05-31 09:25:13: Running background sync on timer...
+2025-05-31 09:25:13: Preparing scheduled sync
+2025-05-31 09:25:13: Sync cancelled - no sync target is selected.
+2025-05-31 09:25:13: RevisionService: collectRevisions: Created revisions for 1 notes
+2025-05-31 09:25:13: RevisionService: maintenance: Done in 121ms
+2025-05-31 09:25:13: OcrService: Found 0 resources to process...
+2025-05-31 09:25:13: OcrService: 0 resources have been processed.
+2025-05-31 09:30:13: Running background sync on timer...
+2025-05-31 09:30:13: Preparing scheduled sync
+2025-05-31 09:30:13: Sync cancelled - no sync target is selected.
+2025-05-31 09:30:13: OcrService: Found 0 resources to process...
+2025-05-31 09:30:13: OcrService: 0 resources have been processed.
+2025-05-31 09:35:13: RevisionService: maintenance: Starting...
+2025-05-31 09:35:13: RevisionService: maintenance: Service is enabled
+2025-05-31 09:35:13: Running background sync on timer...
+2025-05-31 09:35:13: Preparing scheduled sync
+2025-05-31 09:35:13: Sync cancelled - no sync target is selected.
+2025-05-31 09:35:13: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 09:35:13: RevisionService: maintenance: Done in 109ms
+2025-05-31 09:35:13: OcrService: Found 0 resources to process...
+2025-05-31 09:35:13: OcrService: 0 resources have been processed.
+2025-05-31 09:40:13: Running background sync on timer...
+2025-05-31 09:40:13: Preparing scheduled sync
+2025-05-31 09:40:13: Sync cancelled - no sync target is selected.
+2025-05-31 09:40:13: OcrService: Found 0 resources to process...
+2025-05-31 09:40:13: OcrService: 0 resources have been processed.
+2025-05-31 09:55:04: RevisionService: maintenance: Starting...
+2025-05-31 09:55:04: RevisionService: maintenance: Service is enabled
+2025-05-31 09:55:04: Running background sync on timer...
+2025-05-31 09:55:04: Preparing scheduled sync
+2025-05-31 09:55:04: Sync cancelled - no sync target is selected.
+2025-05-31 09:55:04: OcrService: Found 0 resources to process...
+2025-05-31 09:55:04: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 09:55:04: RevisionService: maintenance: Done in 113ms
+2025-05-31 09:55:05: OcrService: 0 resources have been processed.
+2025-05-31 10:30:54: Running background sync on timer...
+2025-05-31 10:30:54: Preparing scheduled sync
+2025-05-31 10:30:54: Sync cancelled - no sync target is selected.
+2025-05-31 10:30:54: RevisionService: maintenance: Starting...
+2025-05-31 10:30:54: RevisionService: maintenance: Service is enabled
+2025-05-31 10:30:54: OcrService: Found 0 resources to process...
+2025-05-31 10:30:54: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 10:30:54: RevisionService: maintenance: Done in 108ms
+2025-05-31 10:30:54: OcrService: 0 resources have been processed.
+2025-05-31 10:35:54: Running background sync on timer...
+2025-05-31 10:35:54: Preparing scheduled sync
+2025-05-31 10:35:54: Sync cancelled - no sync target is selected.
+2025-05-31 10:35:54: OcrService: Found 0 resources to process...
+2025-05-31 10:35:54: OcrService: 0 resources have been processed.
+2025-05-31 10:40:54: RevisionService: maintenance: Starting...
+2025-05-31 10:40:54: RevisionService: maintenance: Service is enabled
+2025-05-31 10:40:54: Running background sync on timer...
+2025-05-31 10:40:54: Preparing scheduled sync
+2025-05-31 10:40:54: Sync cancelled - no sync target is selected.
+2025-05-31 10:40:54: OcrService: Found 0 resources to process...
+2025-05-31 10:40:54: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 10:40:54: RevisionService: maintenance: Done in 111ms
+2025-05-31 10:40:54: OcrService: 0 resources have been processed.
+2025-05-31 10:45:54: Running background sync on timer...
+2025-05-31 10:45:54: Preparing scheduled sync
+2025-05-31 10:45:54: Sync cancelled - no sync target is selected.
+2025-05-31 10:45:54: OcrService: Found 0 resources to process...
+2025-05-31 10:45:54: OcrService: 0 resources have been processed.
+2025-05-31 10:50:54: RevisionService: maintenance: Starting...
+2025-05-31 10:50:54: RevisionService: maintenance: Service is enabled
+2025-05-31 10:50:54: Running background sync on timer...
+2025-05-31 10:50:54: Preparing scheduled sync
+2025-05-31 10:50:54: Sync cancelled - no sync target is selected.
+2025-05-31 10:50:54: OcrService: Found 0 resources to process...
+2025-05-31 10:50:54: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 10:50:54: RevisionService: maintenance: Done in 106ms
+2025-05-31 10:50:54: OcrService: 0 resources have been processed.
+2025-05-31 10:55:54: Running background sync on timer...
+2025-05-31 10:55:54: Preparing scheduled sync
+2025-05-31 10:55:54: Sync cancelled - no sync target is selected.
+2025-05-31 10:55:54: OcrService: Found 0 resources to process...
+2025-05-31 10:55:54: OcrService: 0 resources have been processed.
+2025-05-31 11:31:37: RevisionService: maintenance: Starting...
+2025-05-31 11:31:37: RevisionService: maintenance: Service is enabled
+2025-05-31 11:31:37: Running background sync on timer...
+2025-05-31 11:31:37: Preparing scheduled sync
+2025-05-31 11:31:37: Sync cancelled - no sync target is selected.
+2025-05-31 11:31:37: OcrService: Found 0 resources to process...
+2025-05-31 11:31:37: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 11:31:37: RevisionService: maintenance: Done in 106ms
+2025-05-31 11:31:38: OcrService: 0 resources have been processed.
+2025-05-31 11:36:37: Running background sync on timer...
+2025-05-31 11:36:37: Preparing scheduled sync
+2025-05-31 11:36:37: Sync cancelled - no sync target is selected.
+2025-05-31 11:36:37: OcrService: Found 0 resources to process...
+2025-05-31 11:36:38: OcrService: 0 resources have been processed.
+2025-05-31 11:41:37: RevisionService: maintenance: Starting...
+2025-05-31 11:41:37: RevisionService: maintenance: Service is enabled
+2025-05-31 11:41:37: Running background sync on timer...
+2025-05-31 11:41:37: Preparing scheduled sync
+2025-05-31 11:41:37: Sync cancelled - no sync target is selected.
+2025-05-31 11:41:37: OcrService: Found 0 resources to process...
+2025-05-31 11:41:37: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 11:41:37: RevisionService: maintenance: Done in 104ms
+2025-05-31 11:41:38: OcrService: 0 resources have been processed.
+2025-05-31 11:46:37: Running background sync on timer...
+2025-05-31 11:46:37: Preparing scheduled sync
+2025-05-31 11:46:37: Sync cancelled - no sync target is selected.
+2025-05-31 11:46:37: OcrService: Found 0 resources to process...
+2025-05-31 11:46:38: OcrService: 0 resources have been processed.
+2025-05-31 11:51:37: RevisionService: maintenance: Starting...
+2025-05-31 11:51:37: RevisionService: maintenance: Service is enabled
+2025-05-31 11:51:37: Running background sync on timer...
+2025-05-31 11:51:37: Preparing scheduled sync
+2025-05-31 11:51:37: Sync cancelled - no sync target is selected.
+2025-05-31 11:51:37: OcrService: Found 0 resources to process...
+2025-05-31 11:51:37: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 11:51:37: RevisionService: maintenance: Done in 113ms
+2025-05-31 11:51:38: OcrService: 0 resources have been processed.
+2025-05-31 11:56:37: Running background sync on timer...
+2025-05-31 11:56:37: Preparing scheduled sync
+2025-05-31 11:56:37: Sync cancelled - no sync target is selected.
+2025-05-31 11:56:37: OcrService: Found 0 resources to process...
+2025-05-31 11:56:38: OcrService: 0 resources have been processed.
+2025-05-31 12:01:37: RevisionService: maintenance: Starting...
+2025-05-31 12:01:37: RevisionService: maintenance: Service is enabled
+2025-05-31 12:01:37: Running background sync on timer...
+2025-05-31 12:01:37: Preparing scheduled sync
+2025-05-31 12:01:37: Sync cancelled - no sync target is selected.
+2025-05-31 12:01:37: OcrService: Found 0 resources to process...
+2025-05-31 12:01:37: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 12:01:37: RevisionService: maintenance: Done in 106ms
+2025-05-31 12:01:38: OcrService: 0 resources have been processed.
+2025-05-31 12:06:37: Running background sync on timer...
+2025-05-31 12:06:37: Preparing scheduled sync
+2025-05-31 12:06:37: Sync cancelled - no sync target is selected.
+2025-05-31 12:06:37: OcrService: Found 0 resources to process...
+2025-05-31 12:06:38: OcrService: 0 resources have been processed.
+2025-05-31 12:11:37: RevisionService: maintenance: Starting...
+2025-05-31 12:11:37: RevisionService: maintenance: Service is enabled
+2025-05-31 12:11:37: Running background sync on timer...
+2025-05-31 12:11:37: Preparing scheduled sync
+2025-05-31 12:11:37: Sync cancelled - no sync target is selected.
+2025-05-31 12:11:37: OcrService: Found 0 resources to process...
+2025-05-31 12:11:37: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 12:11:37: RevisionService: maintenance: Done in 113ms
+2025-05-31 12:11:38: OcrService: 0 resources have been processed.
+2025-05-31 12:16:37: Running background sync on timer...
+2025-05-31 12:16:37: Preparing scheduled sync
+2025-05-31 12:16:37: Sync cancelled - no sync target is selected.
+2025-05-31 12:16:37: OcrService: Found 0 resources to process...
+2025-05-31 12:16:38: OcrService: 0 resources have been processed.
+2025-05-31 12:21:37: RevisionService: maintenance: Starting...
+2025-05-31 12:21:37: RevisionService: maintenance: Service is enabled
+2025-05-31 12:21:37: Running background sync on timer...
+2025-05-31 12:21:37: Preparing scheduled sync
+2025-05-31 12:21:37: Sync cancelled - no sync target is selected.
+2025-05-31 12:21:37: OcrService: Found 0 resources to process...
+2025-05-31 12:21:37: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 12:21:37: RevisionService: maintenance: Done in 110ms
+2025-05-31 12:21:38: OcrService: 0 resources have been processed.
+2025-05-31 12:25:13: ResourceService::indexNoteResources: Start
+2025-05-31 12:25:13: ResourceService::indexNoteResources: Completed
+2025-05-31 12:25:13: ResourceService::deleteOrphanResources: []
+2025-05-31 12:25:23: SearchEngine: Updating FTS table...
+2025-05-31 12:25:23: Updating items_normalized from {"updated_time":1748672563616,"id":"6f8a63bbcc704c6ba3bb2a4fb8d60997"}
+2025-05-31 12:25:23: SearchEngine: Updated FTS table in 2ms. Inserted: 0. Deleted: 0
+2025-05-31 12:26:37: Running background sync on timer...
+2025-05-31 12:26:37: Preparing scheduled sync
+2025-05-31 12:26:37: Sync cancelled - no sync target is selected.
+2025-05-31 12:26:37: OcrService: Found 0 resources to process...
+2025-05-31 12:26:38: OcrService: 0 resources have been processed.
+2025-05-31 12:56:25: RevisionService: maintenance: Starting...
+2025-05-31 12:56:25: RevisionService: maintenance: Service is enabled
+2025-05-31 12:56:25: Running background sync on timer...
+2025-05-31 12:56:25: Preparing scheduled sync
+2025-05-31 12:56:25: Sync cancelled - no sync target is selected.
+2025-05-31 12:56:25: OcrService: Found 0 resources to process...
+2025-05-31 12:56:25: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 12:56:25: RevisionService: maintenance: Done in 107ms
+2025-05-31 12:56:26: OcrService: 0 resources have been processed.
+2025-05-31 13:12:55: Running background sync on timer...
+2025-05-31 13:12:55: Preparing scheduled sync
+2025-05-31 13:12:55: Sync cancelled - no sync target is selected.
+2025-05-31 13:12:55: RevisionService: maintenance: Starting...
+2025-05-31 13:12:55: RevisionService: maintenance: Service is enabled
+2025-05-31 13:12:55: OcrService: Found 0 resources to process...
+2025-05-31 13:12:55: RevisionService: collectRevisions: Created revisions for 0 notes
+2025-05-31 13:12:55: RevisionService: maintenance: Done in 111ms
+2025-05-31 13:12:56: OcrService: 0 resources have been processed.
+2025-05-31 13:17:55: Running background sync on timer...
+2025-05-31 13:17:55: Preparing scheduled sync
+2025-05-31 13:17:55: Sync cancelled - no sync target is selected.
+2025-05-31 13:17:55: OcrService: Found 0 resources to process...
+2025-05-31 13:17:56: OcrService: 0 resources have been processed.
