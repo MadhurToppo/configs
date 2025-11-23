@@ -1,0 +1,68 @@
+[preferences]
+advanced=0
+chordproext=.chordpro
+configfile=
+customlib=
+dumpstate=0
+editcolour_dark_annbg=#ffffa0
+editcolour_dark_annfg=#ff0000
+editcolour_dark_bg=#000000
+editcolour_dark_fg=#ffffff
+editcolour_dark_numbg=#303030
+editcolour_dark_numfg=#e8e8e8
+editcolour_dark_s1=#b1b1b1
+editcolour_dark_s2=#b1b1b1
+editcolour_dark_s3=#b1b1b1
+editcolour_dark_s4=#ff3c31
+editcolour_dark_s5=#0068d0
+editcolour_dark_s6=#ef6c2a
+editcolour_light_annbg=#FFFFA0
+editcolour_light_annfg=#FF0000
+editcolour_light_bg=#FFFFFF
+editcolour_light_fg=#000000
+editcolour_light_numbg=#e8e8e8
+editcolour_light_numfg=#303030
+editcolour_light_s1=#B1B1B1
+editcolour_light_s2=#B1B1B1
+editcolour_light_s3=#B1B1B1
+editcolour_light_s4=#FF3C31
+editcolour_light_s5=#0068D0
+editcolour_light_s6=#EF6C2A
+editfont=3;90;0;0;43;<plist version="1.0"><dict><key>NSFontNameAttribute</key><string>CourierNewPSMT</string><key>NSFontSizeAttribute</key><real>12</real></dict></plist>
+editortheme=auto
+editorwrap=1
+editorwrapindent=2
+editsize=12
+enable_configfile=0
+enable_customlib=0
+enable_htmlviewer=
+enable_insert_symbols=0
+enable_pdfviewer=
+enable_tmplfile=0
+enable_xcode=
+enable_xpose=
+expert=0
+msgsfont=3;90;0;0;43;<plist version="1.0"><dict><key>NSFontNameAttribute</key><string>CourierNewPSMT</string><key>NSFontSizeAttribute</key><real>12</real></dict></plist>
+pdfviewer=
+preset_instruments=guitar
+preset_notations=common notation
+preset_stylemods=
+preset_styles=modern 1
+preset_tasks=
+preset_xcodes=common notation
+settings_version=3
+skipoldcfg=0
+skipstdcfg=1
+tmplfile=
+xpose_acc=0
+xpose_from=0
+xpose_to=0
+[recents]
+0=/Users/madhurtoppo/workspace/chordpro/saiyaara.chordpro
+[sash]
+editor_lr=690
+editor_tb=477
+[songbookexport]
+folder=
+[windows]
+main=620 262 1432 1058
